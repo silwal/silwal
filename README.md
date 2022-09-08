@@ -11,7 +11,7 @@
 - 💬 Ask me about here: silwal.bp@gmail.com
 - 📫 How to reach me: silwal@bp@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Hiking, Playing Guitar, Spending quality stress free time with family :)
+- ⚡ Fun fact: Outside work, I like Hiking, Playing Guitar, Spending quality with family :)
 
 **Skills:**  
 
