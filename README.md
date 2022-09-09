@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning p5.js
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with any explorations or problem solving using code.
-- 📫 How to reach me: silwal@bp@gmail.com
+- 📫 How to reach me: silwal.bp@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Outside work, I like Hiking, Playing Guitar, Spending quality with family :)
 
