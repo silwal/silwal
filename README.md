@@ -5,7 +5,7 @@
 > I'm curious, enthusiastic, explorer and student most of the time, other times I try to solve problems using code. 
 
 - 🔭 I’m currently working at Microsoft
-- 🌱 I’m currently learning p5.js
+- 🌱 I’m currently figuring out p5.js with react.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with any explorations or problem solving using code.
 - 📫 How to reach me: silwal.bp@gmail.com
